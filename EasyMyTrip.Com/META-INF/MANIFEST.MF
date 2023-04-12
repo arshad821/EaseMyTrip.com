@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: FlightTicket
+Bundle-SymbolicName: FlightTicket
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: FlightTicket
+Export-Package: com.arshad.CommonStepDefinition,
+ com.arshad.CommonUtilities,
+ com.arshad.Constant,
+ com.arshad.DriverManager,
+ com.arshad.PageObjectModel,
+ com.arshad.StepDefinition,
+ com.arshad.runner

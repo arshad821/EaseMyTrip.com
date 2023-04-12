@@ -1,0 +1,753 @@
+2023-04-06 12:09:52,793 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 12:09:52,809 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 12:09:52,811 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 12:09:52,813 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 12:10:07,579 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 12:10:14,241 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 12:11:31,259 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 12:11:31,266 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 12:11:31,269 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 12:11:31,273 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 12:11:42,124 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 12:11:53,907 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 12:14:11,547 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 12:14:11,551 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 12:14:11,552 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 12:14:11,555 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 12:14:18,353 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 12:14:27,724 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 12:15:44,736 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 12:15:44,738 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 12:15:44,740 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 12:15:44,742 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 12:15:50,494 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 12:16:00,194 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 12:17:04,512 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 12:17:04,515 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 12:17:04,517 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 12:17:04,519 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 12:17:10,688 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 12:17:21,368 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 12:18:40,933 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 12:18:40,936 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 12:18:40,937 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 12:18:40,938 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 12:18:45,848 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 12:18:54,179 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 12:19:26,877 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 12:19:26,882 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 12:19:26,884 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 12:19:26,888 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 12:19:33,261 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 12:19:40,248 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 12:20:06,352 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 12:20:06,355 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 12:20:06,356 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 12:20:06,358 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 12:20:11,533 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 12:20:19,150 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 12:28:10,098 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 12:28:10,106 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 12:28:10,109 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 12:28:10,117 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 12:28:17,105 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 12:28:26,234 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 12:30:19,221 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 12:30:19,224 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 12:30:19,225 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 12:30:19,227 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 12:30:25,152 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 12:30:33,938 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 12:32:04,752 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 12:32:04,756 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 12:32:04,757 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 12:32:04,759 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 12:32:11,118 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 12:32:19,603 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 12:33:33,059 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 12:33:33,062 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 12:33:33,065 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 12:33:33,067 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 12:33:39,335 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 12:33:46,646 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 12:34:54,752 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 12:34:54,755 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 12:34:54,757 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 12:34:54,759 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 12:35:00,467 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 12:35:10,515 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:00:26,344 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:00:26,346 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:00:26,347 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:00:26,349 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:00:31,681 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:00:38,303 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:00:59,410 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:00:59,413 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:00:59,415 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:00:59,417 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:01:05,302 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:01:15,035 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:02:33,756 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:02:33,758 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:02:33,758 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:02:33,760 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:02:38,046 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:02:46,196 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:04:22,979 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:04:22,981 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:04:22,982 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:04:22,984 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:04:29,813 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:04:40,599 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:06:03,689 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:06:03,693 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:06:03,695 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:06:03,698 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:06:10,962 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:06:20,775 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:11:06,723 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:11:06,725 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:11:06,726 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:11:06,728 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:11:14,657 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:11:20,533 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:12:59,235 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:12:59,237 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:12:59,238 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:12:59,239 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:13:03,285 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:13:09,491 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:15:39,660 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:15:39,662 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:15:39,663 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:15:39,664 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:15:43,858 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:15:50,015 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:16:26,157 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:16:26,163 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:16:26,165 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:16:26,168 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:16:31,417 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:16:41,586 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:19:15,573 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:19:15,576 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:19:15,577 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:19:15,578 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:19:19,728 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:19:24,487 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:20:18,150 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:20:18,152 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:20:18,153 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:20:18,154 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:20:22,043 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:20:29,379 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:21:34,504 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:21:34,507 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:21:34,508 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:21:34,511 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:21:38,828 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:21:46,656 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:25:58,401 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:25:58,404 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:25:58,405 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:25:58,406 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:26:04,148 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:26:11,330 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:27:48,998 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:27:49,002 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:27:49,005 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:27:49,011 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:28:02,667 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:28:27,712 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:30:13,092 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:30:13,097 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:30:13,099 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:30:13,102 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:30:22,877 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:30:33,837 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:31:29,434 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:31:29,437 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:31:29,437 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:31:29,439 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:31:35,711 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:31:43,116 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:45:56,008 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:45:56,011 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:45:56,013 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:45:56,015 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:46:01,781 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:46:12,607 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:46:34,297 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:46:34,299 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:46:34,300 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:46:34,301 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:46:41,027 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:46:47,790 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:49:07,216 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:49:07,224 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:49:07,225 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:49:07,227 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:49:15,760 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:49:33,077 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:50:14,023 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:50:14,028 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:50:14,030 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:50:14,039 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:50:21,941 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:50:21,945 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:50:21,946 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:50:21,948 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:50:32,642 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:50:45,380 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:51:59,711 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:51:59,716 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:51:59,717 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:51:59,719 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:52:13,174 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:52:35,290 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:54:00,912 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:54:00,919 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:54:00,923 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:54:00,929 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:54:13,765 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:54:33,879 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:56:32,317 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:56:32,326 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:56:32,328 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:56:32,332 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:56:44,467 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:57:01,915 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:57:44,019 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:57:44,023 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:57:44,024 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:57:44,031 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:57:53,540 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:58:06,439 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 13:59:30,601 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 13:59:30,613 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 13:59:30,615 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 13:59:30,619 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 13:59:46,549 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 13:59:59,127 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 14:03:29,452 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 14:03:29,454 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 14:03:29,456 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 14:03:29,458 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 14:03:35,847 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 14:03:49,401 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 14:04:07,116 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 14:04:07,119 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 14:04:07,120 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 14:04:07,122 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 14:04:14,141 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 14:04:24,031 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 14:05:03,162 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 14:05:03,165 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 14:05:03,166 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 14:05:03,167 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 14:05:20,670 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 14:05:20,673 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 14:05:20,674 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 14:05:20,676 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 14:05:27,568 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 14:05:35,455 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 14:09:10,547 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 14:09:10,549 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 14:09:10,550 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 14:09:10,551 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 14:09:16,085 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 14:09:26,141 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 14:09:45,848 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 14:09:45,852 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 14:09:45,853 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 14:09:45,855 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 14:09:54,128 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 14:10:04,003 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 14:10:56,197 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 14:10:56,201 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 14:10:56,202 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 14:10:56,204 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 14:11:04,311 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 14:11:13,090 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 14:14:38,123 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 14:14:38,125 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 14:14:38,126 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 14:14:38,127 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 14:14:49,358 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 14:14:59,963 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 14:15:59,570 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 14:15:59,573 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 14:15:59,574 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 14:15:59,576 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 14:16:05,406 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 14:16:15,398 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 14:16:44,094 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 14:16:44,097 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 14:16:44,098 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 14:16:44,101 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 14:16:52,683 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 14:16:52,688 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 14:16:52,689 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 14:16:52,692 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 14:16:59,530 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 14:17:08,664 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 14:17:46,857 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 14:17:46,861 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 14:17:46,862 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 14:17:46,864 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 14:17:53,352 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 14:18:04,393 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 14:19:52,010 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 14:19:52,011 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 14:19:52,012 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 14:19:52,015 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 14:19:58,417 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 14:20:10,826 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 14:24:24,595 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 14:24:24,601 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 14:24:24,604 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 14:24:24,607 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 14:24:30,783 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 14:24:39,764 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 14:25:45,371 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 14:25:45,376 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 14:25:45,376 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 14:25:45,378 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 14:25:51,044 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 14:25:59,159 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 14:27:11,990 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 14:27:11,993 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 14:27:11,994 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 14:27:11,995 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 14:27:17,191 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 14:27:25,863 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 15:32:14,982 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 15:32:14,984 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 15:32:15,005 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 15:32:15,008 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 15:32:26,173 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 15:32:34,824 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 15:35:56,034 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 15:35:56,037 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 15:35:56,038 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 15:35:56,039 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 15:36:01,465 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 15:36:09,311 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 15:36:49,050 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 15:36:49,053 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 15:36:49,053 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 15:36:49,055 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 15:36:55,744 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 15:37:01,866 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 15:38:06,409 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 15:38:06,412 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 15:38:06,413 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 15:38:06,415 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 15:38:12,203 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 15:38:19,640 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 15:41:07,090 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 15:41:07,093 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 15:41:07,094 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 15:41:07,096 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 15:41:13,899 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 15:41:21,295 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 16:25:04,736 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 16:25:04,740 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 16:25:04,742 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 16:25:04,744 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 16:25:16,565 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 16:25:31,414 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 16:28:27,560 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 16:28:27,569 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 16:28:27,571 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 16:28:27,577 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 16:28:42,580 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 16:29:16,377 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 16:46:22,101 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 16:46:22,103 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 16:46:22,104 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 16:46:22,106 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 16:46:31,822 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 16:46:42,139 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 16:51:51,371 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 16:51:51,375 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 16:51:51,377 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 16:51:51,380 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 16:52:01,206 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 16:52:16,484 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 16:54:45,008 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 16:54:45,012 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 16:54:45,014 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 16:54:45,017 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 16:54:53,455 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 16:55:04,820 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 18:06:26,541 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 18:06:26,544 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 18:06:26,545 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 18:06:26,547 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 18:06:36,324 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 18:06:43,471 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 18:09:12,266 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 18:09:12,268 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 18:09:12,269 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 18:09:12,271 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 18:09:19,441 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 18:09:28,674 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 18:10:11,543 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 18:10:11,546 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 18:10:11,547 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 18:10:11,549 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 18:10:20,469 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 18:10:27,855 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 18:20:18,134 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 18:20:18,136 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 18:20:18,137 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 18:20:18,139 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 18:20:24,010 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 18:20:29,439 [INFO ] FlightTicketStepDef [main] - user navigated to website and window is maximized
+2023-04-06 18:20:30,609 [INFO ] Flight_HomePage [main] - user has given the FROM location
+2023-04-06 18:20:31,814 [INFO ] Flight_HomePage [main] - user has given the TO Location
+2023-04-06 18:20:32,061 [INFO ] Flight_HomePage [main] - User has given the DEPARTURE DATE
+2023-04-06 18:20:33,285 [INFO ] Flight_HomePage [main] - user has added the passengers
+2023-04-06 18:20:37,479 [INFO ] Flight_HomePage [main] - user has added the class details and search button pressed
+2023-04-06 18:20:43,163 [INFO ] FlightTicketStepDef [main] - User is on Select Flight Page
+2023-04-06 18:20:43,499 [INFO ] Flight_SelectFlightPage [main] - Desired Flight company has been selected
+2023-04-06 18:20:44,671 [INFO ] Flight_SelectFlightPage [main] - User selected Non Stop filter option
+2023-04-06 18:20:46,740 [INFO ] Flight_SelectFlightPage [main] - Total Number of Flights before filtering: 72
+2023-04-06 18:20:48,875 [INFO ] Flight_SelectFlightPage [main] - Cheapest Flight for this route has been select and booknow is clicked
+2023-04-06 18:20:49,046 [INFO ] FlightTicketStepDef [main] - User is on Review Page
+2023-04-06 18:20:50,194 [INFO ] Flight_ReviewPage [main] - user has not selected insurance option
+2023-04-06 18:20:52,435 [INFO ] Flight_ReviewPage [main] - Email ID has been entered
+2023-04-06 18:20:53,701 [INFO ] Flight_ReviewPage [main] - Phone Number has been entered
+2023-04-06 18:20:55,191 [INFO ] Flight_ReviewPage [main] - Adult Passengers Name and gender has been typed
+2023-04-06 18:21:00,941 [INFO ] Flight_ReviewPage [main] - Child Passengers Name and gender has been typed
+2023-04-06 18:21:04,109 [INFO ] FlightTicketStepDef [main] - User is on Seat Selection Page
+2023-04-06 18:21:04,204 [INFO ] FlightTicketStepDef [main] - User has ignored seat selection and selected payment option
+2023-04-06 18:21:09,261 [INFO ] FlightTicketStepDef [main] - User is on Payment Screen, captured and added to report
+2023-04-06 18:21:13,269 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 18:21:13,269 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 18:21:13,270 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 18:21:13,272 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 18:22:17,350 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 18:22:17,353 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 18:22:17,354 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 18:22:17,356 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 18:22:23,041 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 18:22:27,495 [INFO ] FlightTicketStepDef [main] - user navigated to website and window is maximized
+2023-04-06 18:22:28,708 [INFO ] Flight_HomePage [main] - user has given the FROM location
+2023-04-06 18:22:29,937 [INFO ] Flight_HomePage [main] - user has given the TO Location
+2023-04-06 18:22:30,106 [INFO ] Flight_HomePage [main] - User has given the DEPARTURE DATE
+2023-04-06 18:22:31,300 [INFO ] Flight_HomePage [main] - user has added the passengers
+2023-04-06 18:22:35,477 [INFO ] Flight_HomePage [main] - user has added the class details and search button pressed
+2023-04-06 18:22:39,777 [INFO ] FlightTicketStepDef [main] - User is on Select Flight Page
+2023-04-06 18:22:40,066 [INFO ] Flight_SelectFlightPage [main] - Desired Flight company has been selected
+2023-04-06 18:22:41,244 [INFO ] Flight_SelectFlightPage [main] - User selected Non Stop filter option
+2023-04-06 18:22:43,319 [INFO ] Flight_SelectFlightPage [main] - Total Number of Flights before filtering: 72
+2023-04-06 18:22:45,576 [INFO ] Flight_SelectFlightPage [main] - Cheapest Flight for this route has been select and booknow is clicked
+2023-04-06 18:22:45,665 [INFO ] FlightTicketStepDef [main] - User is on Review Page
+2023-04-06 18:22:46,831 [INFO ] Flight_ReviewPage [main] - user has not selected insurance option
+2023-04-06 18:22:49,093 [INFO ] Flight_ReviewPage [main] - Email ID has been entered
+2023-04-06 18:22:50,345 [INFO ] Flight_ReviewPage [main] - Phone Number has been entered
+2023-04-06 18:22:51,717 [INFO ] Flight_ReviewPage [main] - Adult Passengers Name and gender has been typed
+2023-04-06 18:22:57,507 [INFO ] Flight_ReviewPage [main] - Child Passengers Name and gender has been typed
+2023-04-06 18:23:00,702 [INFO ] FlightTicketStepDef [main] - User is on Seat Selection Page
+2023-04-06 18:23:00,800 [INFO ] FlightTicketStepDef [main] - User has ignored seat selection and selected payment option
+2023-04-06 18:23:05,847 [INFO ] FlightTicketStepDef [main] - User is on Payment Screen, captured and added to report
+2023-04-06 18:23:09,854 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 18:23:09,854 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 18:23:09,854 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 18:23:09,855 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 18:25:41,668 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 18:25:41,670 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 18:25:41,671 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 18:25:41,672 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 18:25:47,797 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 18:25:53,255 [INFO ] FlightTicketStepDef [main] - user navigated to website and window is maximized
+2023-04-06 18:25:54,514 [INFO ] Flight_HomePage [main] - user has given the FROM location
+2023-04-06 18:25:55,829 [INFO ] Flight_HomePage [main] - user has given the TO Location
+2023-04-06 18:25:56,062 [INFO ] Flight_HomePage [main] - User has given the DEPARTURE DATE
+2023-04-06 18:25:57,273 [INFO ] Flight_HomePage [main] - user has added the passengers
+2023-04-06 18:26:01,445 [INFO ] Flight_HomePage [main] - user has added the class details and search button pressed
+2023-04-06 18:26:05,819 [INFO ] FlightTicketStepDef [main] - User is on Select Flight Page
+2023-04-06 18:26:06,086 [INFO ] Flight_SelectFlightPage [main] - Desired Flight company has been selected
+2023-04-06 18:26:07,290 [INFO ] Flight_SelectFlightPage [main] - User selected Non Stop filter option
+2023-04-06 18:26:09,344 [INFO ] Flight_SelectFlightPage [main] - Total Number of Flights before filtering: 72
+2023-04-06 18:26:12,020 [INFO ] Flight_SelectFlightPage [main] - Cheapest Flight for this route has been select and booknow is clicked
+2023-04-06 18:26:12,152 [INFO ] FlightTicketStepDef [main] - User is on Review Page
+2023-04-06 18:26:13,323 [INFO ] Flight_ReviewPage [main] - user has not selected insurance option
+2023-04-06 18:26:15,623 [INFO ] Flight_ReviewPage [main] - Email ID has been entered
+2023-04-06 18:26:16,822 [INFO ] Flight_ReviewPage [main] - Phone Number has been entered
+2023-04-06 18:26:17,999 [INFO ] Flight_ReviewPage [main] - Adult Passengers Name and gender has been typed
+2023-04-06 18:26:23,769 [INFO ] Flight_ReviewPage [main] - Child Passengers Name and gender has been typed
+2023-04-06 18:26:26,951 [INFO ] FlightTicketStepDef [main] - User is on Seat Selection Page
+2023-04-06 18:26:27,027 [INFO ] FlightTicketStepDef [main] - User has ignored seat selection and selected payment option
+2023-04-06 18:26:32,076 [INFO ] FlightTicketStepDef [main] - User is on Payment Screen, captured and added to report
+2023-04-06 18:26:34,329 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 18:26:34,329 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 18:26:34,329 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 18:26:34,331 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 18:26:40,232 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 18:28:05,322 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 18:28:05,325 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 18:28:05,326 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 18:28:05,327 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 18:28:10,632 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 18:28:15,768 [INFO ] FlightTicketStepDef [main] - user navigated to website and window is maximized
+2023-04-06 18:28:16,967 [INFO ] Flight_HomePage [main] - user has given the FROM location
+2023-04-06 18:28:18,150 [INFO ] Flight_HomePage [main] - user has given the TO Location
+2023-04-06 18:28:18,335 [INFO ] Flight_HomePage [main] - User has given the DEPARTURE DATE
+2023-04-06 18:28:19,564 [INFO ] Flight_HomePage [main] - user has added the passengers
+2023-04-06 18:28:23,742 [INFO ] Flight_HomePage [main] - user has added the class details and search button pressed
+2023-04-06 18:28:27,911 [INFO ] FlightTicketStepDef [main] - User is on Select Flight Page
+2023-04-06 18:28:28,211 [INFO ] Flight_SelectFlightPage [main] - Desired Flight company has been selected
+2023-04-06 18:28:29,422 [INFO ] Flight_SelectFlightPage [main] - User selected Non Stop filter option
+2023-04-06 18:28:31,494 [INFO ] Flight_SelectFlightPage [main] - Total Number of Flights before filtering: 71
+2023-04-06 18:28:33,737 [INFO ] Flight_SelectFlightPage [main] - Cheapest Flight for this route has been select and booknow is clicked
+2023-04-06 18:28:33,899 [INFO ] FlightTicketStepDef [main] - User is on Review Page
+2023-04-06 18:28:35,018 [INFO ] Flight_ReviewPage [main] - user has not selected insurance option
+2023-04-06 18:28:37,286 [INFO ] Flight_ReviewPage [main] - Email ID has been entered
+2023-04-06 18:28:38,474 [INFO ] Flight_ReviewPage [main] - Phone Number has been entered
+2023-04-06 18:28:39,650 [INFO ] Flight_ReviewPage [main] - Adult Passengers Name and gender has been typed
+2023-04-06 18:28:45,505 [INFO ] Flight_ReviewPage [main] - Child Passengers Name and gender has been typed
+2023-04-06 18:28:48,695 [INFO ] FlightTicketStepDef [main] - User is on Seat Selection Page
+2023-04-06 18:28:48,829 [INFO ] FlightTicketStepDef [main] - User has ignored seat selection and selected payment option
+2023-04-06 18:28:53,873 [INFO ] FlightTicketStepDef [main] - User is on Payment Screen, captured and added to report
+2023-04-06 18:28:56,083 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 18:28:56,083 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 18:28:56,083 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 18:28:56,085 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 18:29:02,705 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 19:46:04,717 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 19:46:04,720 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 19:46:04,721 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 19:46:04,723 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 19:46:16,948 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 19:46:21,842 [INFO ] FlightTicketStepDef [main] - user navigated to website and window is maximized
+2023-04-06 19:46:23,054 [INFO ] Flight_HomePage [main] - user has given the FROM location
+2023-04-06 19:46:24,259 [INFO ] Flight_HomePage [main] - user has given the TO Location
+2023-04-06 19:46:24,501 [INFO ] Flight_HomePage [main] - User has given the DEPARTURE DATE
+2023-04-06 19:46:25,710 [INFO ] Flight_HomePage [main] - user has added the passengers
+2023-04-06 19:46:45,971 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 19:46:45,971 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 19:46:45,971 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 19:46:45,973 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 19:46:57,527 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 19:46:57,529 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 19:46:57,530 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 19:46:57,531 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 19:47:03,637 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 19:47:09,423 [INFO ] FlightTicketStepDef [main] - user navigated to website and window is maximized
+2023-04-06 19:47:10,625 [INFO ] Flight_HomePage [main] - user has given the FROM location
+2023-04-06 19:47:11,941 [INFO ] Flight_HomePage [main] - user has given the TO Location
+2023-04-06 19:47:12,199 [INFO ] Flight_HomePage [main] - User has given the DEPARTURE DATE
+2023-04-06 19:47:13,437 [INFO ] Flight_HomePage [main] - user has added the passengers
+2023-04-06 19:47:17,623 [INFO ] Flight_HomePage [main] - user has added the class details and search button pressed
+2023-04-06 19:47:22,055 [INFO ] FlightTicketStepDef [main] - User is on Select Flight Page
+2023-04-06 19:47:22,406 [INFO ] Flight_SelectFlightPage [main] - Desired Flight company has been selected
+2023-04-06 19:47:23,606 [INFO ] Flight_SelectFlightPage [main] - User selected Non Stop filter option
+2023-04-06 19:47:25,694 [INFO ] Flight_SelectFlightPage [main] - Total Number of Flights before filtering: 72
+2023-04-06 19:47:27,878 [INFO ] Flight_SelectFlightPage [main] - Cheapest Flight for this route has been select and booknow is clicked
+2023-04-06 19:47:27,936 [INFO ] FlightTicketStepDef [main] - User is on Review Page
+2023-04-06 19:47:29,123 [INFO ] Flight_ReviewPage [main] - user has not selected insurance option
+2023-04-06 19:47:31,439 [INFO ] Flight_ReviewPage [main] - Email ID has been entered
+2023-04-06 19:47:32,696 [INFO ] Flight_ReviewPage [main] - Phone Number has been entered
+2023-04-06 19:47:33,585 [INFO ] Flight_ReviewPage [main] - Adult Passengers Name and gender has been typed
+2023-04-06 19:47:39,274 [INFO ] Flight_ReviewPage [main] - Child Passengers Name and gender has been typed
+2023-04-06 19:47:42,433 [INFO ] FlightTicketStepDef [main] - User is on Seat Selection Page
+2023-04-06 19:47:42,512 [INFO ] FlightTicketStepDef [main] - User has ignored seat selection and selected payment option
+2023-04-06 19:47:47,555 [INFO ] FlightTicketStepDef [main] - User is on Payment Screen, captured and added to report
+2023-04-06 19:47:49,795 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 19:47:49,796 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 19:47:49,796 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 19:47:49,798 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 19:47:54,685 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 19:53:22,618 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 19:53:22,621 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 19:53:22,622 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 19:53:22,624 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 19:53:29,054 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 19:53:37,126 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 19:56:19,462 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 19:56:19,469 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 19:56:19,472 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 19:56:19,476 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 19:56:28,680 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 19:56:36,553 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 20:00:10,967 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 20:00:10,971 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 20:00:10,972 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 20:00:10,975 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 20:00:18,494 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 20:00:28,859 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 20:07:02,014 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 20:07:02,016 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 20:07:02,017 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 20:07:02,019 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 20:07:06,965 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 20:07:14,118 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 20:17:42,140 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 20:17:42,142 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 20:17:42,143 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 20:17:42,145 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 20:17:47,332 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 20:17:55,595 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 20:22:55,198 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 20:22:55,204 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 20:22:55,205 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 20:22:55,209 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 20:23:00,521 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 20:23:06,477 [INFO ] FlightTicketStepDef [main] - user navigated to website and window is maximized
+2023-04-06 20:23:07,697 [INFO ] Flight_HomePage [main] - user has given the FROM location
+2023-04-06 20:23:08,990 [INFO ] Flight_HomePage [main] - user has given the TO Location
+2023-04-06 20:23:09,250 [INFO ] Flight_HomePage [main] - User has given the DEPARTURE DATE
+2023-04-06 20:23:10,533 [INFO ] Flight_HomePage [main] - user has added the passengers
+2023-04-06 20:23:14,763 [INFO ] Flight_HomePage [main] - user has added the class details and search button pressed
+2023-04-06 20:23:24,817 [INFO ] FlightTicketStepDef [main] - User is on Select Flight Page
+2023-04-06 20:23:26,125 [INFO ] Flight_SelectFlightPage [main] - Desired Flight company has been selected
+2023-04-06 20:23:27,726 [INFO ] Flight_SelectFlightPage [main] - User selected Non Stop filter option
+2023-04-06 20:23:29,971 [INFO ] Flight_SelectFlightPage [main] - Total Number of Flights before filtering: 72
+2023-04-06 20:23:37,460 [INFO ] Flight_SelectFlightPage [main] - Cheapest Flight for this route has been select and booknow is clicked
+2023-04-06 20:23:37,611 [INFO ] FlightTicketStepDef [main] - User is on Review Page
+2023-04-06 20:23:38,944 [INFO ] Flight_ReviewPage [main] - user has not selected insurance option
+2023-04-06 20:23:41,343 [INFO ] Flight_ReviewPage [main] - Email ID has been entered
+2023-04-06 20:23:42,671 [INFO ] Flight_ReviewPage [main] - Phone Number has been entered
+2023-04-06 20:23:43,729 [INFO ] Flight_ReviewPage [main] - Adult Passengers Name and gender has been typed
+2023-04-06 20:23:49,426 [INFO ] Flight_ReviewPage [main] - Child Passengers Name and gender has been typed
+2023-04-06 20:23:52,612 [INFO ] FlightTicketStepDef [main] - User is on Seat Selection Page
+2023-04-06 20:23:52,690 [INFO ] FlightTicketStepDef [main] - User has ignored seat selection and selected payment option
+2023-04-06 20:23:57,732 [INFO ] FlightTicketStepDef [main] - User is on Payment Screen, captured and added to report
+2023-04-06 20:24:02,355 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 20:24:02,355 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 20:24:02,355 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 20:24:02,357 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 20:24:39,458 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 20:24:39,460 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 20:24:39,461 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 20:24:39,462 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 20:24:44,001 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 20:24:49,728 [INFO ] FlightTicketStepDef [main] - user navigated to website and window is maximized
+2023-04-06 20:24:50,904 [INFO ] Flight_HomePage [main] - user has given the FROM location
+2023-04-06 20:24:52,211 [INFO ] Flight_HomePage [main] - user has given the TO Location
+2023-04-06 20:24:52,635 [INFO ] Flight_HomePage [main] - User has given the DEPARTURE DATE
+2023-04-06 20:24:53,890 [INFO ] Flight_HomePage [main] - user has added the passengers
+2023-04-06 20:24:58,058 [INFO ] Flight_HomePage [main] - user has added the class details and search button pressed
+2023-04-06 20:25:03,572 [INFO ] FlightTicketStepDef [main] - User is on Select Flight Page
+2023-04-06 20:25:03,937 [INFO ] Flight_SelectFlightPage [main] - Desired Flight company has been selected
+2023-04-06 20:25:05,198 [INFO ] Flight_SelectFlightPage [main] - User selected Non Stop filter option
+2023-04-06 20:25:07,256 [INFO ] Flight_SelectFlightPage [main] - Total Number of Flights before filtering: 72
+2023-04-06 20:25:11,896 [INFO ] Flight_SelectFlightPage [main] - Cheapest Flight for this route has been select and booknow is clicked
+2023-04-06 20:25:12,013 [INFO ] FlightTicketStepDef [main] - User is on Review Page
+2023-04-06 20:25:13,266 [INFO ] Flight_ReviewPage [main] - user has not selected insurance option
+2023-04-06 20:25:15,877 [INFO ] Flight_ReviewPage [main] - Email ID has been entered
+2023-04-06 20:25:17,309 [INFO ] Flight_ReviewPage [main] - Phone Number has been entered
+2023-04-06 20:25:20,870 [INFO ] Flight_ReviewPage [main] - Adult Passengers Name and gender has been typed
+2023-04-06 20:25:26,575 [INFO ] Flight_ReviewPage [main] - Child Passengers Name and gender has been typed
+2023-04-06 20:25:29,755 [INFO ] FlightTicketStepDef [main] - User is on Seat Selection Page
+2023-04-06 20:25:29,829 [INFO ] FlightTicketStepDef [main] - User has ignored seat selection and selected payment option
+2023-04-06 20:25:34,869 [INFO ] FlightTicketStepDef [main] - User is on Payment Screen, captured and added to report
+2023-04-06 20:25:39,317 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 20:25:39,318 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 20:25:39,318 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 20:25:39,319 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 20:42:26,669 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 20:42:26,674 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 20:42:26,675 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 20:42:26,677 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 20:42:33,087 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 20:42:38,193 [INFO ] FlightTicketStepDef [main] - user navigated to website and window is maximized
+2023-04-06 20:42:39,342 [INFO ] Flight_HomePage [main] - user has given the FROM location
+2023-04-06 20:42:40,607 [INFO ] Flight_HomePage [main] - user has given the TO Location
+2023-04-06 20:42:40,832 [INFO ] Flight_HomePage [main] - User has given the DEPARTURE DATE
+2023-04-06 20:42:42,169 [INFO ] Flight_HomePage [main] - user has added the passengers
+2023-04-06 20:42:46,369 [INFO ] Flight_HomePage [main] - user has added the class details and search button pressed
+2023-04-06 20:42:50,665 [INFO ] FlightTicketStepDef [main] - User is on Select Flight Page
+2023-04-06 20:42:50,875 [INFO ] Flight_SelectFlightPage [main] - Desired Flight company has been selected
+2023-04-06 20:42:52,035 [INFO ] Flight_SelectFlightPage [main] - User selected Non Stop filter option
+2023-04-06 20:42:54,132 [INFO ] Flight_SelectFlightPage [main] - Total Number of Flights before filtering: 72
+2023-04-06 20:42:56,098 [INFO ] Flight_SelectFlightPage [main] - Cheapest Flight for this route has been select and booknow is clicked
+2023-04-06 20:42:56,304 [INFO ] FlightTicketStepDef [main] - User is on Review Page
+2023-04-06 20:42:57,432 [INFO ] Flight_ReviewPage [main] - user has not selected insurance option
+2023-04-06 20:42:59,725 [INFO ] Flight_ReviewPage [main] - Email ID has been entered
+2023-04-06 20:43:00,936 [INFO ] Flight_ReviewPage [main] - Phone Number has been entered
+2023-04-06 20:43:02,458 [INFO ] Flight_ReviewPage [main] - Adult Passengers Name and gender has been typed
+2023-04-06 20:43:08,231 [INFO ] Flight_ReviewPage [main] - Child Passengers Name and gender has been typed
+2023-04-06 20:43:11,460 [INFO ] FlightTicketStepDef [main] - User is on Seat Selection Page
+2023-04-06 20:43:11,547 [INFO ] FlightTicketStepDef [main] - User has ignored seat selection and selected payment option
+2023-04-06 20:43:16,595 [INFO ] FlightTicketStepDef [main] - User is on Payment Screen, captured and added to report
+2023-04-06 20:43:20,586 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 20:43:20,586 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 20:43:20,586 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 20:43:20,587 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 20:54:32,582 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 20:54:32,584 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 20:54:32,585 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 20:54:32,587 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 20:54:43,881 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 20:54:49,051 [INFO ] FlightTicketStepDef [main] - user navigated to website and window is maximized
+2023-04-06 20:54:50,325 [INFO ] Flight_HomePage [main] - user has given the FROM location
+2023-04-06 20:54:51,504 [INFO ] Flight_HomePage [main] - user has given the TO Location
+2023-04-06 20:54:51,715 [INFO ] Flight_HomePage [main] - User has given the DEPARTURE DATE
+2023-04-06 20:54:52,938 [INFO ] Flight_HomePage [main] - user has added the passengers
+2023-04-06 20:54:57,128 [INFO ] Flight_HomePage [main] - user has added the class details and search button pressed
+2023-04-06 20:55:02,171 [INFO ] FlightTicketStepDef [main] - User is on Select Flight Page
+2023-04-06 20:55:02,502 [INFO ] Flight_SelectFlightPage [main] - Desired Flight company has been selected
+2023-04-06 20:55:03,706 [INFO ] Flight_SelectFlightPage [main] - User selected Non Stop filter option
+2023-04-06 20:55:05,788 [INFO ] Flight_SelectFlightPage [main] - Total Number of Flights before filtering: 72
+2023-04-06 20:55:08,215 [INFO ] Flight_SelectFlightPage [main] - Cheapest Flight for this route has been select and booknow is clicked
+2023-04-06 20:55:08,287 [INFO ] FlightTicketStepDef [main] - User is on Review Page
+2023-04-06 20:55:09,444 [INFO ] Flight_ReviewPage [main] - user has not selected insurance option
+2023-04-06 20:55:11,750 [INFO ] Flight_ReviewPage [main] - Email ID has been entered
+2023-04-06 20:55:13,014 [INFO ] Flight_ReviewPage [main] - Phone Number has been entered
+2023-04-06 20:55:14,344 [INFO ] Flight_ReviewPage [main] - Adult Passengers Name and gender has been typed
+2023-04-06 20:55:20,091 [INFO ] Flight_ReviewPage [main] - Child Passengers Name and gender has been typed
+2023-04-06 20:55:23,258 [INFO ] FlightTicketStepDef [main] - User is on Seat Selection Page
+2023-04-06 20:55:23,369 [INFO ] FlightTicketStepDef [main] - User has ignored seat selection and selected payment option
+2023-04-06 20:55:28,416 [INFO ] FlightTicketStepDef [main] - User is on Payment Screen, captured and added to report
+2023-04-06 20:55:28,688 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 20:55:28,688 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 20:55:28,688 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 20:55:28,690 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 20:55:35,381 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 21:05:27,282 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 21:05:27,284 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 21:05:27,285 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 21:05:27,288 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 21:05:33,354 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 21:05:39,092 [INFO ] FlightTicketStepDef [main] - user navigated to website and window is maximized
+2023-04-06 21:05:40,260 [INFO ] Flight_HomePage [main] - user has given the FROM location
+2023-04-06 21:05:41,484 [INFO ] Flight_HomePage [main] - user has given the TO Location
+2023-04-06 21:05:41,673 [INFO ] Flight_HomePage [main] - User has given the DEPARTURE DATE
+2023-04-06 21:05:42,915 [INFO ] Flight_HomePage [main] - user has added the passengers
+2023-04-06 21:05:47,110 [INFO ] Flight_HomePage [main] - user has added the class details and search button pressed
+2023-04-06 21:05:52,236 [INFO ] FlightTicketStepDef [main] - User is on Select Flight Page
+2023-04-06 21:05:52,498 [INFO ] Flight_SelectFlightPage [main] - Desired Flight company has been selected
+2023-04-06 21:05:53,727 [INFO ] Flight_SelectFlightPage [main] - User selected Non Stop filter option
+2023-04-06 21:05:55,809 [INFO ] Flight_SelectFlightPage [main] - Total Number of Flights before filtering: 72
+2023-04-06 21:05:58,539 [INFO ] Flight_SelectFlightPage [main] - Cheapest Flight for this route has been select and booknow is clicked
+2023-04-06 21:05:58,593 [INFO ] FlightTicketStepDef [main] - User is on Review Page
+2023-04-06 21:05:59,749 [INFO ] Flight_ReviewPage [main] - user has not selected insurance option
+2023-04-06 21:06:02,051 [INFO ] Flight_ReviewPage [main] - Email ID has been entered
+2023-04-06 21:06:03,324 [INFO ] Flight_ReviewPage [main] - Phone Number has been entered
+2023-04-06 21:06:04,549 [INFO ] Flight_ReviewPage [main] - Adult Passengers Name and gender has been typed
+2023-04-06 21:06:10,319 [INFO ] Flight_ReviewPage [main] - Child Passengers Name and gender has been typed
+2023-04-06 21:06:13,560 [INFO ] FlightTicketStepDef [main] - User is on Seat Selection Page
+2023-04-06 21:06:13,648 [INFO ] FlightTicketStepDef [main] - User has ignored seat selection and selected payment option
+2023-04-06 21:06:18,708 [INFO ] FlightTicketStepDef [main] - User is on Payment Screen, captured and added to report
+2023-04-06 21:06:18,939 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 21:06:18,939 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 21:06:18,940 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 21:06:18,942 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 21:06:24,010 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 21:07:55,061 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 21:07:55,065 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 21:07:55,066 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 21:07:55,068 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 21:08:02,081 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 21:08:15,476 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
+2023-04-06 21:09:41,887 [INFO ] commonstepdef [main] - Execution Started
+2023-04-06 21:09:41,893 [INFO ] commonstepdef [main] - Instantiating Common Utils
+2023-04-06 21:09:41,895 [INFO ] commonstepdef [main] - Loading Properties
+2023-04-06 21:09:41,899 [INFO ] commonstepdef [main] - Checking driver is null or not
+2023-04-06 21:09:48,987 [INFO ] commonstepdef [main] - browser Launched 
+2023-04-06 21:09:58,707 [INFO ] HotelBookingStepDef [main] - 3 user navscscscwigated to website and window is maximized
